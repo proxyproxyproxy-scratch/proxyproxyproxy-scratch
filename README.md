@@ -10,7 +10,7 @@ I'm intersted in programming.
 - ✍️ I recently learn Vpyhon.
 -    Also I can write code with *HTML* *JS* *CSS* *Tex* *python*.
 - 🌱 I make game or unblocking site.
--    ==> [PlayNow](https://proxyproxyproxy-scratch/GAME)
+-    ==> [PlayNow](https://proxyproxyproxy-scratch.github.io/GAME)
 - ⚔️ I sometimes join to battle programming.
 -    ==> [SeeMyAccount](https://atcoder.jp/users/proxyproxyproxy)
 
